@@ -1,0 +1,30 @@
+What is 5 + 3? | 8
+Add 12 and 4. | 16
+How much is 7 plus 9? | 16
+Find the sum of 15 and 6. | 21
+Add 20 to 3. | 23
+Subtract 4 from 9. | 5
+What is 13 minus 5? | 8
+How much is 20 minus 7? | 13
+Find the difference between 18 and 10. | 8
+What do you get when you subtract 6 from 17? | 11
+Multiply 3 by 4. | 12
+What is 6 times 5? | 30
+How much is 8 times 2? | 16
+What is 7 multiplied by 3? | 21
+Find the product of 9 and 4. | 36
+Divide 16 by 4. | 4
+What is 18 divided by 3? | 6
+How many times does 2 go into 8? | 4
+What is 20 divided by 5? | 4
+Divide 24 by 6. | 4
+What is 5 times 5 minus 5? | 20
+Add 7 to 4, then multiply by 2. | 22
+Subtract 5 from 20, then divide by 3. | 5
+Multiply 3 by 6 and add 4. | 22
+What is 10 minus 5 plus 3? | 8
+How many sides does a triangle have? | 3
+What shape has four equal sides and all right angles? | Square
+How many sides does a pentagon have? | 5
+What is the shape with three sides and three angles? | Triangle
+How many corners does a rectangle have? | 4
